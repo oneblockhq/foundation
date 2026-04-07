@@ -1,6 +1,6 @@
 # Core Engineering Principles
 
-At **ONE BLOCK LTD**, we believe that every great system starts with a single, perfectly engineered block. Our principles guide how we build, design, and collaborate.
+At **ONE BLOCK**, we believe that every great system starts with a single, perfectly engineered block. Our principles guide how we build, design, and collaborate.
 
 ## 1. Foundational Integrity
 We prioritise stability and robustness. Every "block" of code should be self-contained, testable, and built to last. We do not compromise on security or memory safety.
