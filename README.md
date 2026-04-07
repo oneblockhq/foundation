@@ -4,7 +4,7 @@
 
 ## Foundational Engineering. Education Technology. Product Design.
 
-ONE BLOCK is a premier software engineering and product design firm dedicated to building the foundational blocks of the digital era. We specialize in robust systems design, emerging technologies (AI & Blockchain), and high-fidelity digital solutions.
+ONE BLOCK is a premier software engineering and product design community dedicated to building the foundational blocks of the digital era. We specialise in robust systems design, emerging technologies (AI & Blockchain), and high-fidelity digital solutions.
 
 ### 🧱 Our Core Pillars
 - **Software Engineering**: Robust digital infrastructure and scalable systems integration.
@@ -20,7 +20,7 @@ We build with a focus on performance, security, and scalability.
 - **AI/ML**: Python, PyTorch, TensorFlow
 
 ### 🚀 Vision & Objectives
-Our mission is to develop, deploy, and commercialize the digital infrastructure that powers global industries. From R&D in Artificial Intelligence and Blockchain to establishing innovation hubs, we are committed to technical excellence and community growth.
+Our mission is to develop, deploy, and commercialise the digital infrastructure that powers global industries. From R&D in Artificial Intelligence and Blockchain to establishing innovation hubs, we are committed to technical excellence and community growth.
 
 ### 📫 Connect With Us
 - **Email**: [oneblockhq@gmail.com](mailto:oneblockhq@gmail.com)
