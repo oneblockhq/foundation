@@ -1,4 +1,4 @@
-# Contributing to ONE BLOCK LTD
+# Contributing to ONE BLOCK
 
 Welcome to the **ONE BLOCK** community! We are thrilled that you want to help us build the foundational blocks of the future.
 
@@ -11,7 +11,7 @@ We value quality over quantity. Every contribution should adhere to our **Core E
 Check our open issues or projects. If you have a new idea, please open a **Feature Request** or **RFC** (Request for Comments).
 
 ### 2. Craft Your Solution
-- Follow our coding standards (refer to `docs/CORE_PRINCIPLES.md`).
+- Follow our coding standards (refer to [CORE PRINCIPLE](https://github.com/oneblockhq/foundation/blob/main/CORE_PRINCIPLES.md)).
 - Ensure your code is well-documented and covered by tests.
 - Maintain a focus on premium UI/UX if working on frontend components.
 
